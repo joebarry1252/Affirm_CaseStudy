@@ -37,22 +37,20 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far? Affirm helps increase a merchant's sales while limiting their risk of the consumer defaulting on the purchase. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? 
 
-* How is your company performing relative to competitors in the same domain?
+* How is your company performing relative to competitors in the same domain? Affirm has a first-mover advantage in the United States, and is globally competing with Sweden's Klarna abd Australia's Afterpay, among others.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Right now, while utilizing their first-mover advantage in the BNPL space, the next logical step would be to expand their business into the InsurTech space. Affirm is already using a model to assess the riskiness of loans for the consumer. Why shouldn't they be able to create a similar model to determine the insurability of individuals for insurance companies. Like the BNPL model, the insurance company would purchase the access to use Affirm's proprietary software, and in turn Affirm would be compensated by earning a percentage of the policy premium that the consumer pays to the insurer. This would give the insurance company a better look at the risks of insuring their potential client, and in turn should increase insurance sales for them by using more metrics to assess the risk. Affirm should work to develop specific models for different types of insurance (life, auto, home, etc.) to increase the range of their potential clients. 
 
-* Why do you think that offering this product or service would benefit the company?
+* The move into the InsurTech space would allow Affirm to dominate Risk Management across a broader scope of the financial industry. Additionally, while I considered suggesting a move into being a one-stop bank for consumers, incumbent FinTech players like PayPal and Square's CashApp would be difficult for Affirm to overtake. 
 
-* What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
 
 ## Sources
 
