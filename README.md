@@ -17,14 +17,16 @@
 
 * Affirm is working to help customers buy now and pay later without incurring credit card debt and hidden late fees. The company aims to provide an alternative to the traditional credit card model at the POS, enabling the consumer to make their purchase today and make simple monthly payments over a specified time line. 
 
-* In contrast to traditional credit cards, Affirm provides what the customer will both owe and what they will pay each month without the hidden fees or compounding interest that credit cards are notorious for.
+* In contrast to traditional credit cards, Affirm provides what the user will both owe and what they will pay each month without the hidden fees or compounding interest that credit cards are notorious for. 
+
+* That being said, Affirm's true customer is the merchants that they pair with (ex: Peloton is one of their most notable merchants). The merchant will pay Affirm a fee when Affirm assists in both making the sale and powering the consumer payment for that sale. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Affirm falls under the "Payment and Remittances" domain of FinTech. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
