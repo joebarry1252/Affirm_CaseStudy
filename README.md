@@ -19,18 +19,20 @@
 
 * In contrast to traditional credit cards, Affirm provides what the user will both owe and what they will pay each month without the hidden fees or compounding interest that credit cards are notorious for. 
 
-* That being said, Affirm's true customer is the merchants that they pair with (ex: Peloton is one of their most notable merchants). The merchant will pay Affirm a fee when Affirm assists in both making the sale and powering the consumer payment for that sale. 
+* That being said, Affirm's true customer is the merchants that they pair with (ex: Peloton is one of their most notable merchants). The merchant will pay Affirm a fee when Affirm assists in both making the sale and powering the consumer payment for that sale. Affirm claims that they are able to approve roughly 20% consumers for loans than their competitors, which, in turn, allows the merchant to make more sales over time.  
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Affirm's risk model is what they consider to be their competitive advantage. Using their model, Affirm assesses the risk at the transaction level by looking at the particular item that the consumer is looking to purchase. 
 
 
 ## Landscape:
 
-* Affirm falls under the "Payment and Remittances" domain of FinTech. 
+* Affirm falls under the "Payment and Remittances" domain of FinTech, entering as a competitor to traditional loan services and seeking to disrupt this sector of financial services using new technology.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* The impact of Affirm's BNPL (Buy Now Pay Later) model, in my opinion, was accelerated due to the covid-19 pandemic. People want to continue working out and staying in shape, but their local gyms were closed. They are interested in purchasing equipment for a home gym, but the price of equipment is too expensive to purchase in one payment. They could potentially leverage a credit card to make the purchase, only to incur high interest rates on the purchase while they try to pay it back. Additionally, given the rise of unemployment due to the pandemic, the idea of making a purchase (like a Peloton, for example) may seem too daunting to undertake.
 
-* What are the other major companies in this domain?
+* The ability for the consumer to purchase the equipment upfront at the POS and knowing exactly what they will owe and when is  a more consumer-friendly, transparent lending model. 
+
+* Other BNPL competitors of Affirm include Klarna, Afterpay, Uplift, and Paypal's BNPL platform called 'Pay in 4'.
 
 
 ## Results
@@ -52,3 +54,11 @@
 
 * Why are these technologies appropriate for your solution?
 
+## Sources
+
+* https://www.marketwatch.com/story/affirm-ipo-5-things-to-know-about-the-fintech-company-shaking-up-online-credit-11606846732
+* https://stackshare.io/companies/affirm
+* https://www.crunchbase.com/organization/affirm
+* https://github.com/Affirm
+* https://tech.affirm.com/
+* https://www.affirm.com/how-it-works
