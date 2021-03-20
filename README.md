@@ -6,7 +6,7 @@
 
 * When was the company incorporated? - 2012 
 
-* Who are the founders of the company? - Max Levchin is the founder and CEO of Affirm Holdings. 
+* Who are the founders of the company? - Max Levchin is the founder and CEO of Affirm Holdings. Additional co-founders of Affirm are Jeffrey Kaditz and Nathan Gettings.
 
 * How did the idea for the company (or project) come about? - "Creating tech that brings transparency to consumer credit." Buy now/pay later platform to help consumer stay away from credit card debt. Remaking consumer finance from the ground up.
 
