@@ -37,11 +37,11 @@
 
 ## Results
 
-* What has been the business impact of this company so far? Affirm helps increase a merchant's sales while limiting their risk of the consumer defaulting on the purchase. 
+* Affirm helps increase a merchant's sales while limiting their risk of the consumer defaulting on the purchase. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? 
+* How is your company performing, based on these metrics? 
 
-* How is your company performing relative to competitors in the same domain? Affirm has a first-mover advantage in the United States, and is globally competing with Sweden's Klarna abd Australia's Afterpay, among others.
+* Affirm has a first-mover advantage in the United States, and is globally competing with Sweden's Klarna abd Australia's Afterpay, among others.
 
 
 ## Recommendations
