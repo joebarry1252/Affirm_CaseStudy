@@ -6,9 +6,9 @@
 
 * When was the company incorporated? - 2012 
 
-* Who are the founders of the company? - Max Levchin: 
+* Who are the founders of the company? - Max Levchin is the founder and CEO of Affirm Holdings. 
 
-* How did the idea for the company (or project) come about? - "Creating tech that brings transparency to consumer credit." Buy now/pay later platform to help consumer stay away from credit card debt. Transparent, flexible, and fair.
+* How did the idea for the company (or project) come about? - "Creating tech that brings transparency to consumer credit." Buy now/pay later platform to help consumer stay away from credit card debt. Remaking consumer finance from the ground up.
 
 * How is the company funded? How much funding have they received? - Funding: $800 million from Founders Fund, GIC, Khosla Ventures, Lightspeed Venture Partners, Spark Capital, Thrive Capital and others
 
